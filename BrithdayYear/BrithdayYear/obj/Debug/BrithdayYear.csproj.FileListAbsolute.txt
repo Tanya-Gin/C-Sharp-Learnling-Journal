@@ -1,0 +1,7 @@
+E:\VS\Work\BrithdayYear\BrithdayYear\bin\Debug\BrithdayYear.exe.config
+E:\VS\Work\BrithdayYear\BrithdayYear\bin\Debug\BrithdayYear.exe
+E:\VS\Work\BrithdayYear\BrithdayYear\bin\Debug\BrithdayYear.pdb
+E:\VS\Work\BrithdayYear\BrithdayYear\obj\Debug\BrithdayYear.csproj.AssemblyReference.cache
+E:\VS\Work\BrithdayYear\BrithdayYear\obj\Debug\BrithdayYear.csproj.CoreCompileInputs.cache
+E:\VS\Work\BrithdayYear\BrithdayYear\obj\Debug\BrithdayYear.exe
+E:\VS\Work\BrithdayYear\BrithdayYear\obj\Debug\BrithdayYear.pdb
