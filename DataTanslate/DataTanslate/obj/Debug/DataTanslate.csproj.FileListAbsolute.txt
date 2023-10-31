@@ -1,0 +1,7 @@
+E:\VS\Work\DataTanslate\DataTanslate\bin\Debug\DataTanslate.exe.config
+E:\VS\Work\DataTanslate\DataTanslate\bin\Debug\DataTanslate.exe
+E:\VS\Work\DataTanslate\DataTanslate\bin\Debug\DataTanslate.pdb
+E:\VS\Work\DataTanslate\DataTanslate\obj\Debug\DataTanslate.csproj.AssemblyReference.cache
+E:\VS\Work\DataTanslate\DataTanslate\obj\Debug\DataTanslate.csproj.CoreCompileInputs.cache
+E:\VS\Work\DataTanslate\DataTanslate\obj\Debug\DataTanslate.exe
+E:\VS\Work\DataTanslate\DataTanslate\obj\Debug\DataTanslate.pdb
