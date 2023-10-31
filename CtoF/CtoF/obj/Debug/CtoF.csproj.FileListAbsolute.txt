@@ -1,0 +1,7 @@
+E:\VS\Work\CtoF\CtoF\bin\Debug\CtoF.exe.config
+E:\VS\Work\CtoF\CtoF\bin\Debug\CtoF.exe
+E:\VS\Work\CtoF\CtoF\bin\Debug\CtoF.pdb
+E:\VS\Work\CtoF\CtoF\obj\Debug\CtoF.csproj.AssemblyReference.cache
+E:\VS\Work\CtoF\CtoF\obj\Debug\CtoF.csproj.CoreCompileInputs.cache
+E:\VS\Work\CtoF\CtoF\obj\Debug\CtoF.exe
+E:\VS\Work\CtoF\CtoF\obj\Debug\CtoF.pdb
