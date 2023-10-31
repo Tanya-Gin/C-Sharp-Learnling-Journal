@@ -1,0 +1,7 @@
+E:\VS\Work\Volume\Volume\bin\Debug\Volume.exe.config
+E:\VS\Work\Volume\Volume\bin\Debug\Volume.exe
+E:\VS\Work\Volume\Volume\bin\Debug\Volume.pdb
+E:\VS\Work\Volume\Volume\obj\Debug\Volume.csproj.AssemblyReference.cache
+E:\VS\Work\Volume\Volume\obj\Debug\Volume.csproj.CoreCompileInputs.cache
+E:\VS\Work\Volume\Volume\obj\Debug\Volume.exe
+E:\VS\Work\Volume\Volume\obj\Debug\Volume.pdb
