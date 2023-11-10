@@ -1,7 +1,0 @@
-E:\VS\Work\Clemm\Clemm\bin\Debug\Clemm.exe.config
-E:\VS\Work\Clemm\Clemm\bin\Debug\Clemm.exe
-E:\VS\Work\Clemm\Clemm\bin\Debug\Clemm.pdb
-E:\VS\Work\Clemm\Clemm\obj\Debug\Clemm.csproj.AssemblyReference.cache
-E:\VS\Work\Clemm\Clemm\obj\Debug\Clemm.csproj.CoreCompileInputs.cache
-E:\VS\Work\Clemm\Clemm\obj\Debug\Clemm.exe
-E:\VS\Work\Clemm\Clemm\obj\Debug\Clemm.pdb
