@@ -1,0 +1,7 @@
+E:\VS\Work\MoneyChange\MoneyChange\obj\Debug\MoneyChange.csproj.AssemblyReference.cache
+E:\VS\Work\MoneyChange\MoneyChange\obj\Debug\MoneyChange.csproj.CoreCompileInputs.cache
+E:\VS\Work\MoneyChange\MoneyChange\bin\Debug\MoneyChange.exe.config
+E:\VS\Work\MoneyChange\MoneyChange\bin\Debug\MoneyChange.exe
+E:\VS\Work\MoneyChange\MoneyChange\bin\Debug\MoneyChange.pdb
+E:\VS\Work\MoneyChange\MoneyChange\obj\Debug\MoneyChange.exe
+E:\VS\Work\MoneyChange\MoneyChange\obj\Debug\MoneyChange.pdb
