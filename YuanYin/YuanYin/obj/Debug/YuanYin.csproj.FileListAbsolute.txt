@@ -1,0 +1,7 @@
+E:\VS\Work\YuanYin\YuanYin\bin\Debug\YuanYin.exe.config
+E:\VS\Work\YuanYin\YuanYin\bin\Debug\YuanYin.exe
+E:\VS\Work\YuanYin\YuanYin\bin\Debug\YuanYin.pdb
+E:\VS\Work\YuanYin\YuanYin\obj\Debug\YuanYin.csproj.AssemblyReference.cache
+E:\VS\Work\YuanYin\YuanYin\obj\Debug\YuanYin.csproj.CoreCompileInputs.cache
+E:\VS\Work\YuanYin\YuanYin\obj\Debug\YuanYin.exe
+E:\VS\Work\YuanYin\YuanYin\obj\Debug\YuanYin.pdb
