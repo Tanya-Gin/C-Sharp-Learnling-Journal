@@ -1,0 +1,7 @@
+E:\VS\Work\LeiJia\LeiJia\bin\Debug\LeiJia.exe.config
+E:\VS\Work\LeiJia\LeiJia\bin\Debug\LeiJia.exe
+E:\VS\Work\LeiJia\LeiJia\bin\Debug\LeiJia.pdb
+E:\VS\Work\LeiJia\LeiJia\obj\Debug\LeiJia.csproj.AssemblyReference.cache
+E:\VS\Work\LeiJia\LeiJia\obj\Debug\LeiJia.csproj.CoreCompileInputs.cache
+E:\VS\Work\LeiJia\LeiJia\obj\Debug\LeiJia.exe
+E:\VS\Work\LeiJia\LeiJia\obj\Debug\LeiJia.pdb
