@@ -1,0 +1,14 @@
+E:\VS\Work\ForroF\ForroF\bin\Debug\ForroF.exe.config
+E:\VS\Work\ForroF\ForroF\bin\Debug\ForroF.exe
+E:\VS\Work\ForroF\ForroF\bin\Debug\ForroF.pdb
+E:\VS\Work\ForroF\ForroF\obj\Debug\ForroF.csproj.AssemblyReference.cache
+E:\VS\Work\ForroF\ForroF\obj\Debug\ForroF.csproj.CoreCompileInputs.cache
+E:\VS\Work\ForroF\ForroF\obj\Debug\ForroF.exe
+E:\VS\Work\ForroF\ForroF\obj\Debug\ForroF.pdb
+E:\VS\Work\C#\ForroF\ForroF\bin\Debug\ForroF.exe.config
+E:\VS\Work\C#\ForroF\ForroF\bin\Debug\ForroF.exe
+E:\VS\Work\C#\ForroF\ForroF\bin\Debug\ForroF.pdb
+E:\VS\Work\C#\ForroF\ForroF\obj\Debug\ForroF.csproj.AssemblyReference.cache
+E:\VS\Work\C#\ForroF\ForroF\obj\Debug\ForroF.csproj.CoreCompileInputs.cache
+E:\VS\Work\C#\ForroF\ForroF\obj\Debug\ForroF.exe
+E:\VS\Work\C#\ForroF\ForroF\obj\Debug\ForroF.pdb
