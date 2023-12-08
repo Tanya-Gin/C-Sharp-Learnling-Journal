@@ -1,0 +1,7 @@
+E:\VS\Work\C#\Circulate\Circulate\bin\Debug\Circulate.exe.config
+E:\VS\Work\C#\Circulate\Circulate\bin\Debug\Circulate.exe
+E:\VS\Work\C#\Circulate\Circulate\bin\Debug\Circulate.pdb
+E:\VS\Work\C#\Circulate\Circulate\obj\Debug\Circulate.csproj.AssemblyReference.cache
+E:\VS\Work\C#\Circulate\Circulate\obj\Debug\Circulate.csproj.CoreCompileInputs.cache
+E:\VS\Work\C#\Circulate\Circulate\obj\Debug\Circulate.exe
+E:\VS\Work\C#\Circulate\Circulate\obj\Debug\Circulate.pdb
