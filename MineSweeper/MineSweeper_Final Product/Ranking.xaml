@@ -1,0 +1,18 @@
+﻿<Window x:Class="MineSweeper1.Ranking"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MineSweeper1"
+        mc:Ignorable="d"
+        Title="Ranking" Height="450" Width="320" x:Name="RankingWindow">
+    <Grid>
+        <Grid.Background>
+                <ImageBrush ImageSource="E:/VS/Work/C#/MineSweeper/MineSweeper1/Images/Rankingbackground.jpg" />
+        </Grid.Background>
+            <Button Content="Simple" x:Name="Simple" HorizontalAlignment="Left" Margin="20,367,0,0" VerticalAlignment="Top" Height="39" Width="74" Background="White" Click="ToSimple" Opacity="0.5"/>
+            <Button Content="Normal" x:Name="Normal" HorizontalAlignment="Center" Margin="0,367,0,0" VerticalAlignment="Top" Height="39" Width="74" Background="White" Click="ToNarmal" Opacity="0.5"/>
+        <Button Content="Hard" x:Name="Hard" HorizontalAlignment="Right" Margin="0,367,20,0" VerticalAlignment="Top" Height="39" Width="74" Background="White" Click="ToHard" Opacity="0.5"/>
+        <DataGrid x:Name="RankingBox" d:ItemsSource="{d:SampleData ItemCount=5}" Opacity="0.5" Margin="20,22,20,70"/>
+    </Grid>
+</Window>
