@@ -1,0 +1,7 @@
+E:\VS\Work\C#\MineSweeper\MineSweeperAlg\bin\Debug\MineSweeperAlg.exe.config
+E:\VS\Work\C#\MineSweeper\MineSweeperAlg\bin\Debug\MineSweeperAlg.exe
+E:\VS\Work\C#\MineSweeper\MineSweeperAlg\bin\Debug\MineSweeperAlg.pdb
+E:\VS\Work\C#\MineSweeper\MineSweeperAlg\obj\Debug\MineSweeperAlg.csproj.AssemblyReference.cache
+E:\VS\Work\C#\MineSweeper\MineSweeperAlg\obj\Debug\MineSweeperAlg.csproj.CoreCompileInputs.cache
+E:\VS\Work\C#\MineSweeper\MineSweeperAlg\obj\Debug\MineSweeperAlg.exe
+E:\VS\Work\C#\MineSweeper\MineSweeperAlg\obj\Debug\MineSweeperAlg.pdb
